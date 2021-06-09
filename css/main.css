@@ -53,7 +53,13 @@ img {
     min-width: 100%;
     min-height: 100%;
   }
-  
+  #myVideo2 {
+    position: fixed;
+    right: 0;
+    bottom: 100;
+    min-width: 100%;
+    min-height: 100%;
+  }
   /* Add some content at the bottom of the video/page */
   .content {
     position: fixed;
