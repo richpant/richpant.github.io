@@ -42,8 +42,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-img {
-    border-radius: 50%;
+
+#robotics{
+    background-image: ;
 }
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
