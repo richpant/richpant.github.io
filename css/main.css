@@ -141,6 +141,6 @@ ul.posts li {
     width: 50%;
   }
   .redtext{
-    color:#993366
-  
+    color:#993366;
+    text-align: center;
   }
